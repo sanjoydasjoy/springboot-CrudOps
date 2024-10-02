@@ -1,0 +1,5 @@
+com\example\crud\controller\ThymeleafController.class
+com\example\crud\CrudApplication.class
+com\example\crud\repository\studentRepository.class
+com\example\crud\controller\studentController.class
+com\example\crud\model\Student.class
